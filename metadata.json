@@ -1,0 +1,6 @@
+{
+  "name": "Codex Gemini AI - Autonomous Code, Test & Thinking Studio",
+  "description": "Codex-style autonomous AI coding workspace powered by Gemini. Features real-time reasoning, VS Code editor, Android Studio emulator, MetaTrader 5 (MT5) algorithmic trading tester, headless browser, and test runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
